@@ -4,7 +4,8 @@ An interactive **Power BI Finance Analysis Dashboard** designed to analyze banki
 
 ## 📊 Dashboard Preview
 
-![Intelligent Bank Finance Analysis Dashboard](dashboard.png)
+
+![Intelligent Bank Finance Analysis Dashboard](https://github.com/backbencher8/Finance-Analysis-Dashboard/blob/main/Screenshot%202026-11-05%20181609.png)
 
 ## 🎯 Project Overview
 
